@@ -1,0 +1,5 @@
+.navbar-nav{
+    justify-content: flex-end;
+    width: 100%;
+    text-transform: uppercase;
+}
